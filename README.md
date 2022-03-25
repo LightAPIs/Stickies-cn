@@ -2,8 +2,8 @@
 
 [Stickies](https://www.zhornsoftware.co.uk/stickies/index.html) 汉化中文版
 
-- 最新汉化版本: 10.1a
-- 更新时间: 2021-05-29
+- 最新汉化版本: 10.1b
+- 更新时间: 2022-03-25
 
 ## 步骤
 
